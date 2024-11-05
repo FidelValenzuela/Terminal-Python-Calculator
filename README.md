@@ -24,6 +24,9 @@ This Python script is a command-line calculator that allows users to perform bas
 4. If division by zero is attempted, an error message will display instead of a result.
 
 ## Usage
+1. Open Google Colab link and click play button to run. You may need to sign in to Google to run the code.
+
+OR
 
 1. Run the script:
    ```bash
