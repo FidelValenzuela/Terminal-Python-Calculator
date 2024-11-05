@@ -27,7 +27,7 @@ This Python script is a command-line calculator that allows users to perform bas
 
 1. Run the script:
    ```bash
-   python calculator.py
+   python main.py
    ```
 2. Follow the prompts to select an operation and input numbers.
 
