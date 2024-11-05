@@ -1,5 +1,5 @@
 #choose an operation
-print('Please enter an option')
+print('Please enter an option 1-5')
 print('   1: Add two numbers')
 print('   2: Subtract two numbers')
 print('   3: Multiply two numbers')
